@@ -133,7 +133,9 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 0.1f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 0.1f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 0.1f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 0.1f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 0.1f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
+
                                 }
                             }
                         }
@@ -150,7 +152,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 0.1f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 0.1f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 0.1f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 0.1f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 0.1f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
@@ -167,7 +170,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
@@ -184,7 +188,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
@@ -201,7 +206,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
@@ -218,7 +224,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
@@ -235,7 +242,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
@@ -252,7 +260,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
@@ -269,7 +278,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
@@ -286,7 +296,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
@@ -303,7 +314,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
@@ -320,7 +332,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
@@ -337,7 +350,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
@@ -354,7 +368,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
@@ -371,7 +386,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
@@ -388,7 +404,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
@@ -405,7 +422,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
@@ -422,7 +440,8 @@ namespace REPO_Enemy_Drops
                                     { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
                                     { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } }
+                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
+                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
                                 }
                             }
                         }
