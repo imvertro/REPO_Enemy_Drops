@@ -555,24 +555,6 @@ namespace REPO_Enemy_Drops
                         }
                     },
                     {
-                        "Floater", new Dictionary<string, Dictionary<string, Dictionary<string, float>>>
-                        {
-                            {
-                                "Items", new Dictionary<string, Dictionary<string, float>>
-                                {
-                                    { "Item Upgrade Player Extra Jump", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Grab Range", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Energy", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Grab Strength", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Health", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Sprint Speed", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Launch", new Dictionary<string, float> { { "Chance", 1.0f }, } },
-                                    { "Item Upgrade Player Tumble Wings", new Dictionary<string, float> { { "Chance", 0.1f }, } }
-                                }
-                            }
-                        }
-                    },
-                    {
                         "Elsa", new Dictionary<string, Dictionary<string, Dictionary<string, float>>>
                         {
                             {
